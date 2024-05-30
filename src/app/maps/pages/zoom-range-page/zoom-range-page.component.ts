@@ -1,5 +1,4 @@
 import { AfterViewInit, Component, ElementRef, OnDestroy, ViewChild } from '@angular/core';
-import { log } from 'console';
 import {LngLat, Map} from 'mapbox-gl'; // or "const mapboxgl = require('mapbox-gl');"
 
 
